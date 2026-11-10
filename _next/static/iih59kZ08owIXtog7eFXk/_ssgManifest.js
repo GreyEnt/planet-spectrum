@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fgenre\u002F[slug]","\u002Fs\u002F[shortId]","\u002Fwatch\u002F[titleSlug]","\u002Fwatch\u002F[titleSlug]\u002F[ep]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

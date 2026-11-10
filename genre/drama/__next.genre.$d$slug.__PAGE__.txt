@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[97367,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"ViewportBoundary"]
+8:I[97367,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"MetadataBoundary"]
+9:I[27201,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"IconMark"]
+b:I[39756,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"default"]
+c:I[37457,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"iih59kZ08owIXtog7eFXk","data":[{"rsc":["$","$1","c",{"children":[["$undefined",["$","section",null,{"className":"py-14","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"font-mono-brand text-xs text-cyan mb-4","children":["GENRE · ","DRAMA"]}],["$","h1",null,{"className":"text-5xl mb-8","children":"Drama"}],["$","p",null,{"className":"text-dim max-w-[60ch]","children":"Nothing in this genre is filmed yet — we're not filling the shelf with placeholders until there is."}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Drama | Planet Spectrum"}],["$","meta","1",{"name":"description","content":"True crime, the paranormal, and the things nobody has explained yet. Made independently in the UK."}],["$","link","2",{"rel":"icon","href":"/planet-spectrum/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L9","3",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@f","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+4:null
+11:true
+6:300
+6:C
+10:0
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+5:"$undefined"

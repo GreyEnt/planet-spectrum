@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[22016,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js","/planet-spectrum/_next/static/chunks/2oa7nvbd9yfjq.js"],""]
+3:I[97367,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"ViewportBoundary"]
+9:I[97367,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"MetadataBoundary"]
+a:I[27201,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"IconMark"]
+c:I[39756,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"default"]
+d:I[37457,["/planet-spectrum/_next/static/chunks/0p1_nhq9kez_b.js"],"default"]
+:HL["/planet-spectrum/posters/alien-brazil-part1.png","image"]
+:HL["/planet-spectrum/posters/alien-brazil-part2.png","image"]
+7:X
+f:X
+f:C
+0:{"buildId":"iih59kZ08owIXtog7eFXk","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"py-14","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"aspect-video max-w-3xl border border-[var(--edge)] bg-gradient-to-br from-[#241546] via-[#120B22] to-[#05040C] mb-8 rounded-[9px] relative overflow-hidden","children":[["$","img",null,{"src":"/planet-spectrum/posters/alien-brazil-part1.png","alt":"","className":"absolute inset-0 w-full h-full object-cover"}],false]}],["$","div",null,{"className":"flex gap-3 items-center font-mono-brand text-xs text-dim mb-3","children":[["$","span",null,{"className":"badge badge-18","children":"15"}],["$","span",null,{"children":"PARANORMAL"}],"·",["$","span",null,{"children":"SHORT"}]]}],["$","h1",null,{"className":"text-5xl mb-4","children":"Alien Brazil"}],["$","p",null,{"className":"max-w-[60ch] text-[#C6BFD4] mb-8","children":"TBC — full synopsis not yet written. Paranormal, two parts."}],["$","div",null,{"className":"space-y-3","children":[["$","h2",null,{"className":"text-2xl mb-3","children":"Parts"}],["$","div",null,{"className":"grid sm:grid-cols-2 md:grid-cols-4 gap-4","children":[["$","$L2","alien-brazil-p1",{"href":"/watch/alien-brazil/1","className":"block border border-[var(--edge)] rounded-[9px] overflow-hidden group","children":[["$","div",null,{"className":"aspect-video bg-gradient-to-br from-[#241546] via-[#120B22] to-[#05040C] relative overflow-hidden","children":[["$","img",null,{"src":"/planet-spectrum/posters/alien-brazil-part1.png","alt":"","className":"absolute inset-0 w-full h-full object-cover"}],["$","span",null,{"className":"badge absolute top-2 left-2 badge-plus","children":"SPECTRUM+"}]]}],["$","div",null,{"className":"p-2","children":["$","h3",null,{"className":"text-lg group-hover:text-magenta","children":"Part 1"}]}]]}],["$","$L2","alien-brazil-p2",{"href":"/watch/alien-brazil/2","className":"block border border-[var(--edge)] rounded-[9px] overflow-hidden group","children":[["$","div",null,{"className":"aspect-video bg-gradient-to-br from-[#241546] via-[#120B22] to-[#05040C] relative overflow-hidden","children":[["$","img",null,{"src":"/planet-spectrum/posters/alien-brazil-part2.png","alt":"","className":"absolute inset-0 w-full h-full object-cover"}],["$","span",null,{"className":"badge absolute top-2 left-2 badge-plus","children":"SPECTRUM+"}]]}],["$","div",null,{"className":"p-2","children":["$","h3",null,{"className":"text-lg group-hover:text-magenta","children":"Part 2"}]}]]}]]}]]}],false]}]}],[["$","script","script-0",{"src":"/planet-spectrum/_next/static/chunks/2oa7nvbd9yfjq.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Alien Brazil | Planet Spectrum"}],["$","meta","1",{"name":"description","content":"2-part short film."}],["$","link","2",{"rel":"icon","href":"/planet-spectrum/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","3",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+12:true
+7:300
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"
